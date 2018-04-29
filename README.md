@@ -6,7 +6,7 @@ Make sure you have Node.js installed. You can download it here: https://nodejs.o
 
 ## Operation
 
-Simply run the 'launch.bat' file.
+Simply run the 'launch.bat' file. It is hosted on localhost:3000
 
 ## Contribution
 
