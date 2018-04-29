@@ -2,7 +2,7 @@
 A tool for Organising teams.
 
 ## Setup
-Make sure you have Node.js installed. You can download it here: https://nodejs.org/en/. Once installed, simply clone the repo and store the contents somewhere in a folder.
+Make sure you have Node.js installed. You can download it here: https://nodejs.org/en/. Once installed, simply clone the repo and store the contents somewhere in a folder. Then run setup.bat.
 
 ## Operation
 
