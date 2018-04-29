@@ -10,6 +10,6 @@ Simply run the 'launch.bat' file. It is hosted on localhost:3000
 
 ## Contribution
 
-The code for the actual web server is located under server.js. All HTML/CSS documents are in the 'views' directory, and we use the ejs format. The content for the actual application is located under the 'app' directory.
+The code for the actual web server is located under server.js. All HTML documents are in the 'views' directory, and we use the ejs format. The content for the actual application is located under the 'app' directory. The CSS files are in public/css/
 
 We use Semi-colon at the end of each line for Javascript, and braces go on the next line.
